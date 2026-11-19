@@ -1,4 +1,38 @@
 
+<!-- identity-block -->
+<div align="center">
+
+# aws-rds
+
+<sub>Konfigurasi dan praktik Amazon Relational Database Service (RDS).</sub>
+
+</div>
+
+## At a glance
+
+| Field | Detail |
+| --- | --- |
+| Repository | aws-rds |
+| Primary language | Shell |
+| Topics | aws, cloud, database, devops, postgres, postgresql, rds, shell |
+| License | MIT |
+| Branch | master |
+| Maintainer | [@devarent](https://github.com/devarent) |
+
+## Overview
+
+aws-rds is a hands-on repository focused on: Konfigurasi dan praktik Amazon Relational Database Service (RDS).. Primary language: Shell. Topics: aws, cloud, database, devops, postgres, postgresql, rds, shell. The README below documents the project; use the table above for a quick overview.
+
+### Global references
+
+<div align="center">
+
+🇮🇸 Iceland &middot; 🇳🇿 New Zealand &middot; 🇨🇭 Switzerland &middot; 🇸🇮 Slovenia &middot; 🇮🇪 Ireland &middot; 🇦🇹 Austria &middot; 🇵🇹 Portugal &middot; 🇸🇬 Singapore &middot; 🇫🇮 Finland
+
+</div>
+
+---
+
 <!-- dbx-style-kit -->
 <div align="center">
 
